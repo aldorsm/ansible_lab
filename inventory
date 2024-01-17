@@ -1,3 +1,8 @@
-pi01
-pi02
-pi04
+[fedora]
+pi04 ansible_host=192.168.99.207 ansible_user=root
+pi01 ansible_host=192.168.99.214 ansible_user=root
+pi02 ansible_host=192.168.99.216 ansible_user=root
+
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3
