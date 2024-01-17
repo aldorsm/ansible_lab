@@ -1,5 +1,5 @@
 [fedora]
-pi04 ansible_host=192.168.99.207 ansible_user=root
+pi04 ansible_host=pi04 ansible_user=root
 pi01 ansible_host=192.168.99.214 ansible_user=root
 pi02 ansible_host=192.168.99.216 ansible_user=root
 
