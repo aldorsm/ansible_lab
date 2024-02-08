@@ -1,3 +1,3 @@
 # ansible_lab
 
-This is my cool Ansible repository!
+This is my Ansible Lab repository. Automation is cool!
