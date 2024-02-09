@@ -6,5 +6,5 @@ Install Ansible
 
 By default, the Ansible package is included in the Fedora default repo. Install it using the following command.
 
-dnf install ansible -y
+- dnf install ansible -y
 
